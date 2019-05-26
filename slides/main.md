@@ -6,7 +6,7 @@
 
 ## Gliederung:
 1. Allgemeines
- 1.1 Geschichte
+ 1. Geschichte
 2. Stuff
 
 
