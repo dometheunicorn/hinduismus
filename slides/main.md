@@ -8,7 +8,6 @@
 1. Allgemeines
   * Geschichte
 2. Stuff
-  * test
 
 
 
