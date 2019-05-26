@@ -29,8 +29,7 @@
 
 ## Quellen
 * Bilder
-  * https[]()://www[]().whats-your-sign.com/wp-content/uploads/2018/02/OmSymbolMeaningTattooIdeas1.jpg (Hintergrundbild)
-  * ehm jap test 2
+  * https://www.whats-your-sign.com/wp-content/uploads/2018/02/OmSymbolMeaningTattooIdeas1.jpg (Hintergrundbild)
 * Informationen
   * bla
   * bla
