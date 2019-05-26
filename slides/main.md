@@ -6,13 +6,15 @@
 
 ## Gliederung:
 1. Allgemeines
- 1. Geschichte
+  * Geschichte
 2. Stuff
 
 
 
 ## Allgemeines
-1. Geschichte
+
+
+## Geschichte
   * bla
   * bla
   * bla
