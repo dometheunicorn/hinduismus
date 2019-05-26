@@ -67,10 +67,18 @@
 				maxScale: 1.5,
 
 				keyboard: {
-					32: function() {console.log('1');},
-					50: Reveal.configure({parallaxBackgroundImage:'images/bg0.jpg'}),
-					51: Reveal.configure({parallaxBackgroundImage:'images/bg1.jpg'}),
-					52: Reveal.configure({parallaxBackgroundImage:'images/bg2.jpg'})
+					32: function() {
+            Reveal.configure({parallaxBackgroundImage:'images/bg.jpg'});
+          },
+					50: function() {
+            Reveal.configure({parallaxBackgroundImage:'images/bg0.jpg'});
+          },
+					51: function() {
+            Reveal.configure({parallaxBackgroundImage:'images/bg1.jpg'});
+          },
+					52: function() {
+            Reveal.configure({parallaxBackgroundImage:'images/bg2.jpg'});
+          }
 				}
 			});
 
