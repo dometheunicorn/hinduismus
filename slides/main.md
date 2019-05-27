@@ -7,8 +7,9 @@
 ## Gliederung:
 1. Allgemeines
   * Geschichte
-2. Verschiedene Richtungen des Hinduismus
-3. Quellen
+1. Verschiedene Richtungen des Hinduismus
+1. Karma
+1. Quellen
 
 
 
