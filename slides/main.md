@@ -19,6 +19,9 @@
 + Urprung aus Indien
 + Anhänger heißen „Hindus“
 + Entwickelte sich über mehrere tausend Jahre
+
+
+## Allgemeines
 + Überbegriff für viele verschiedene Strömungen
 + 80% der Inder sind Hindus
 + Polytheistische Religion
