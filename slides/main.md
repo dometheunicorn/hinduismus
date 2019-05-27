@@ -70,6 +70,10 @@
 
 
 
+## Karma
+> Das Konzept geht davon aus, dass jeder Handlung im Leben unweigerlich das entsprechende Resultat folgt, gut oder schlecht.
+
+
 ## Quellen
 + Bilder
   + https://www.whats-your-sign.com/wp-content/uploads/2018/02/OmSymbolMeaningTattooIdeas1.jpg
