@@ -53,7 +53,7 @@ Note: joa gibt Strömungen bei dingsens
 
 ## Vishnuismus
 + Alle Strömungen verehren Vishnu
-+ > "Alle Götter entstanden aus Vishnu."
++ "Alle Götter entstanden aus Vishnu."
 + Erkennungsmerkmale:
   + Frauen: "Tilak" (roter vertikaler Strich auf der Stirn)
   + Männer: Y oder U in weiß auf der Stirn
