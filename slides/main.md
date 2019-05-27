@@ -54,7 +54,7 @@ joa gibt Strömungen bei dingsens
 
 
 ## Vishnuismus
-+ Alle Strömungen verehren Vishnu
++ Gott Vishnu steht im Mittelpunkt
 + "Alle Götter entstanden aus Vishnu."
 + Erkennungsmerkmale:
   + Frauen: "Tilak" (roter vertikaler Strich auf der Stirn)
@@ -65,6 +65,7 @@ joa gibt Strömungen bei dingsens
 
 
 ## Shivaismus
++ Gott Shiva steht im Mittelpunkt
 
 
 
