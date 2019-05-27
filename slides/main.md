@@ -45,7 +45,9 @@
 
 
 ## Verschiedene Richtungen des Hinduismus
-Note: joa gibt Strömungen bei dingsens
+Note:
+joa gibt Strömungen bei dingsens
+
 + Vishnuismus
 + Shaktismus
 + Shivaismus
