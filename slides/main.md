@@ -7,7 +7,7 @@
 ## Gliederung:
 1. Allgemeines
   * Geschichte
-2. Stuff
+2. Verschiedene Richtungen des Hinduismus
 3. Quellen
 
 
