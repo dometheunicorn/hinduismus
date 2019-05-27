@@ -52,7 +52,8 @@ Note: joa gibt Strömungen bei dingsens
 
 
 ## Vishnuismus
-+ 
++ Alle Strömungen verehren Vishnu
++ > Alle Götter entstanden aus Vishnu.
 
 
 ## Shaktismus
