@@ -74,6 +74,6 @@
 + Bilder
   + https://www.whats-your-sign.com/wp-content/uploads/2018/02/OmSymbolMeaningTattooIdeas1.jpg
 + Informationen
-  + bla
-  + bla
-  + bla
+  + https://religion.orf.at/lexikon/stories/2566400/
+  + https://religion.orf.at/lexikon/stories/2566412/
+  + http://www.hindu-religion.de/shaktismus/
