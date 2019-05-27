@@ -43,13 +43,16 @@
 + joa andere Epoche
 
 
+
 ## Verschiedene Richtungen des Hinduismus
+Note: joa gibt Strömungen bei dingsens
 + Vishnuismus
 + Shaktismus
 + Shivaismus
 
 
 ## Vishnuismus
++ 
 
 
 ## Shaktismus
