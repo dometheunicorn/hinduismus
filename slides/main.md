@@ -22,8 +22,19 @@
 
 
 
-## Stuff
-* test
+## Verschiedene Richtungen des Hinduismus
+* Vishnuismus
++ Shaktismus
++ Shivaismus
+
+
+## Vishnuismus
+
+
+## Shaktismus
+
+
+## Shivaismus
 
 
 
