@@ -58,7 +58,7 @@ joa gibt Strömungen bei dingsens
 + "Alle Götter entstanden aus Vishnu."
 + Erkennungsmerkmale:
   + Frauen: "Tilak" (roter vertikaler Strich auf der Stirn)
-  + Männer: Y oder U in weiß auf der Stirn
+  + Männer: weißes Y oder U auf der Stirn
 
 
 ## Shaktismus
