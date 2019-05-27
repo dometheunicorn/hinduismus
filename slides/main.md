@@ -45,9 +45,6 @@
 
 
 ## Verschiedene Richtungen des Hinduismus
-Note:
-joa gibt Strömungen bei dingsens
-
 + Vishnuismus
 + Shaktismus
 + Shivaismus
@@ -62,10 +59,14 @@ joa gibt Strömungen bei dingsens
 
 
 ## Shaktismus
++ Göttin Shakti/weibliche Götter stehen im Mittelpunkt
++ Shakti = weibliche Urkraft des Universums
 
 
 ## Shivaismus
 + Gott Shiva steht im Mittelpunkt
++ Monotheismus/Monismus sind möglich
++ Einweihung durch Guru oft von großer Bedeutung
 
 
 
