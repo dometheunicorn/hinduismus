@@ -29,6 +29,26 @@
 
 
 
+## Allgemeines
++ Die drittgrößte Religionsgruppe
++ Urprung aus Indien
++ Anhänger heißen „Hindus“
++ Entwickelte sich über mehrere tausend Jahre
++ Überbegriff für viele verschiedene Strömungen
++ 80% der Inder sind Hindus
++ Polytheistische Religion
++ Älteste Weltreligion
+
+
+
+## Allgemeines
++ Die drittgrößte Religionsgruppe | + Überbegriff für viele verschiedene Strömungen
++ Urprung aus Indien | + 80% der Inder sind Hindus
++ Anhänger heißen „Hindus“ | + Polytheistische Religion
++ Entwickelte sich über mehrere tausend Jahre | + Älteste Weltreligion
+
+
+
 ## Geschichte
 ### Epoche des klassischen Hinduismus
 + 200 vor - 1000 nach Christus:
