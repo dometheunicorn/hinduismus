@@ -42,8 +42,6 @@
 
 
 ## Allgemeines
-test | test
----|---
 Die drittgrößte Religionsgruppe | Überbegriff für viele verschiedene Strömungen
 Urprung aus Indien | 80% der Inder sind Hindus
 Anhänger heißen „Hindus“ | Polytheistische Religion
