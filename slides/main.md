@@ -30,6 +30,7 @@
 
 
 ## Geschichte
+### Epoche des klassischen Hinduismus
 + 200 vor - 1000 nach Christus:
   + Tempel kamen auf
   + Bildliche Darstellungen von Gottheiten
@@ -38,6 +39,7 @@
 
 
 ## Geschichte
+### Epoche von was anderem
 + joa andere Epoche
 
 
