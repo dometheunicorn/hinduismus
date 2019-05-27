@@ -9,11 +9,17 @@
   * Geschichte
 1. Verschiedene Richtungen des Hinduismus
 1. Karma
+1. Heilige Orte
 1. Quellen
 
 
 
 ## Allgemeines
++ Die drittgrößte Religionsgruppe
++ Urprung aus Indien
++ Anhänger heißen „Hindus“
++ Entwickelte sich über mehrere tausend Jahre
++ Überbegriff für viele verschiedene Strömungen
 
 
 ## Geschichte
