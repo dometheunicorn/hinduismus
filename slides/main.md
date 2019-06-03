@@ -17,9 +17,9 @@
 + Die drittgrößte Religionsgruppe
 + Urprung aus Indien
 + Anhänger heißen „Hindus“
++ 80% der Inder sind Hindus
 + Entwickelte sich über mehrere tausend Jahre
 + Überbegriff für viele verschiedene Strömungen
-+ 80% der Inder sind Hindus
 + Polytheistische Religion
 + Älteste Weltreligion
 
