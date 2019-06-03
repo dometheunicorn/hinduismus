@@ -7,7 +7,7 @@
 ## Gliederung:
 1. Allgemeines
 1. Geschichte
-1. Verschiedene Richtungen des Hinduismus
+1. Verschiedene Richtungen
 1. Karma
 1. Quellen
 
@@ -33,24 +33,21 @@
 + Moderner Hinduismus / Neohinduismus
 
 
-## Geschichte
-### Vedische Religion
+## Vedische Religion
 ### 1750 - 500 vor Christus
 + "Arier" wandern nach Indien ein
 + Verfassen die "Veden"
 + Rituale wie Feueropfer im Mittelpunkt
 
 
-## Geschichte
-### Nachvedische Zeit
+## Nachvedische Zeit
 ### 500 - 200 vor Christus
 + Kritik an Opfergaben -> Erlösung durch Askese
 + Veden wurden angezweifelt
 + Entwicklung von Buddhismus und Jainismus
 
 
-## Geschichte
-### Epoche des klassischen Hinduismus
+## Epoche des klassischen Hinduismus
 ### 200 vor - 1000 nach Christus
   + Tempel kamen auf
   + Bildliche Darstellungen von Gottheiten
@@ -59,8 +56,7 @@
   + Hat größtenteils Buddhismus aus Indien verdrängt
 
 
-## Geschichte
-### Sekten-Hinduismus
+## Sekten-Hinduismus
 ### 1100 - 1850 nach Christus
 + starke Einflüsse von Islam und Christentum
 + weitgehender Rückzug der Hindus
@@ -68,8 +64,7 @@
 + Kastensystem stärker durchgesetzt
 
 
-## Geschichte
-### Moderner Hinduismus / Neohinduismus
+## Moderner Hinduismus / Neohinduismus
 ### seit 1850 nach Christus
 + Reformbewegung durch westliche Einflüsse
 + Veraltete Traditionen abgeschafft
@@ -77,7 +72,7 @@
 
 
 
-## Verschiedene Richtungen des Hinduismus
+## Verschiedene Richtungen
 + Vishnuismus
 + Shaktismus
 + Shivaismus
