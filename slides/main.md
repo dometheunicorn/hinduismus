@@ -43,7 +43,7 @@
 
 ## Geschichte
 ### Nachvedische Zeit
-### 500 vor - 200 nach Christus
+### 500 - 200 vor Christus
 + Kritik an Opfergaben -> Erlösung durch Askese
 + Veden wurden angezweifelt
 + Entwicklung von Buddhismus und Jainismus
