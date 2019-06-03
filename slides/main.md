@@ -86,15 +86,15 @@
   + Männer: weißes Y oder U auf der Stirn
 
 
-## Shaktismus
-+ Göttin Shakti/weibliche Götter stehen im Mittelpunkt
-+ Shakti = weibliche Urkraft des Universums
-
-
 ## Shivaismus
 + Gott Shiva steht im Mittelpunkt
 + Monotheismus/Monismus sind möglich
 + Einweihung durch Guru oft von großer Bedeutung
+
+
+## Shaktismus
++ Göttin Shakti/weibliche Götter stehen im Mittelpunkt
++ Shakti = weibliche Urkraft des Universums
 
 
 
