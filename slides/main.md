@@ -9,7 +9,6 @@
 1. Geschichte
 1. Verschiedene Richtungen des Hinduismus
 1. Karma
-1. Heilige Orte
 1. Quellen
 
 
@@ -27,17 +26,54 @@
 
 
 ## Geschichte
++ Vedische Religion
++ Nachvedische Zeit
++ Epoche des klassischen Hinduismus
++ Sekten-Hinduismus
++ Moderner Hinduismus / Neohinduismus
+
+
+## Geschichte
+### Vedische Religion
+### 1750 - 500 vor Christus
++ "Arier" wandern nach Indien ein
++ Verfassen die "Veden"
++ Rituale wie Feueropfer im Mittelpunkt
+
+
+## Geschichte
+### Nachvedische Zeit
+### 500 vor - 200 nach Christus
++ Kritik an Opfergaben -> Erlösung durch Askese
++ Veden wurden angezweifelt
++ Entwicklung von Buddhismus und Jainismus
+
+
+## Geschichte
 ### Epoche des klassischen Hinduismus
-+ 200 vor - 1000 nach Christus:
+### 200 vor - 1000 nach Christus
   + Tempel kamen auf
   + Bildliche Darstellungen von Gottheiten
   + Verehrung von Vishnu & Shiva traten in den Vordergrund
+  + Vedische Einflüsse traten in den Hintergrund
   + Hat größtenteils Buddhismus aus Indien verdrängt
 
 
 ## Geschichte
-### Epoche von was anderem
-+ joa andere Epoche
+### Sekten-Hinduismus
+### 1100 - 1850 nach Christus
++ starke Einflüsse von Islam und Christentum
++ weitgehender Rückzug der Hindus
++ Bewahrung der Werte durch Isolation
++ Kastensystem stärker durchgesetzt
+
+
+## Geschichte
+### Moderner Hinduismus / Neohinduismus
+### seit 1850 nach Christus
++ Reformbewegung durch westliche Einflüsse
++ Veraltete Traditionen abgeschafft
++ Veden wieder im Mittelpunkt
 
 
 
@@ -77,5 +113,6 @@
   + https://www.whats-your-sign.com/wp-content/uploads/2018/02/OmSymbolMeaningTattooIdeas1.jpg
 + Informationen
   + https://religion.orf.at/lexikon/stories/2566400/
+  + https://religion.orf.at/lexikon/stories/2566507/
   + https://religion.orf.at/lexikon/stories/2566412/
   + http://www.hindu-religion.de/shaktismus/
