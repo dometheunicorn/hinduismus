@@ -4,7 +4,7 @@
 
 
 
-## Gliederung:
+## Gliederung
 1. Allgemeines
 1. Geschichte
 1. Verschiedene Richtungen
